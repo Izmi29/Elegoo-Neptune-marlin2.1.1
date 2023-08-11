@@ -1736,8 +1736,8 @@
   #define X_BED_SIZE 330
   #define Y_BED_SIZE 330
 #elif NEPTUNE_3_MAX
-  #define X_BED_SIZE 430
-  #define Y_BED_SIZE 430
+  #define X_BED_SIZE 420
+  #define Y_BED_SIZE 420
 #endif
 
 // Travel limits (linear=mm, rotational=°) after homing, corresponding to endstop positions.
